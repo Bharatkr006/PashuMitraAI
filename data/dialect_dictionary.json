@@ -1,0 +1,338 @@
+{
+  "animal_names": {
+    "गाय": "cow",
+    "गइया": "cow",
+    "गैया": "cow",
+    "धेनु": "cow",
+    "माँ गाय": "cow",
+    "बछड़ा": "calf",
+    "बछड़ी": "calf",
+    "पाड़ा": "buffalo calf",
+    "पाड़ी": "buffalo calf",
+    "भैंस": "buffalo",
+    "भैंसा": "buffalo",
+    "बकरी": "goat",
+    "बकरा": "goat",
+    "बकरियाँ": "goat",
+    "मेमना": "lamb",
+    "भेड़": "sheep",
+    "भेड़ा": "sheep",
+    "दुधारू पशु": "dairy animal",
+    "मवेशी": "cattle",
+    "पशु": "animal",
+    "जानवर": "animal",
+    "ढोर": "cattle",
+    "राठी": "Rathi cattle",
+    "गिर": "Gir cattle",
+    "थारपारकर": "Tharparkar cattle",
+    "मुर्रा": "Murrah buffalo",
+    "बाड़मेरी": "Badmeri sheep",
+    "नाली": "Nali sheep",
+    "मारवाड़ी": "Marwari goat"
+  },
+  "symptom_mappings": {
+    "आफरो": "bloat",
+    "आफरा": "bloat",
+    "अफारा": "bloat",
+    "आफरो आयो": "bloat",
+    "पेट फूल्यो": "bloat",
+    "गेस": "gas",
+    "बखार": "fever",
+    "ज्वर": "fever",
+    "तापमान ज्यादो": "high temperature",
+    "दस्त": "diarrhea",
+    "झाड़ा": "diarrhea",
+    "पातलो गोबर": "loose stool",
+    "पातलो": "diarrhea",
+    "खावो नाई": "not eating",
+    "चारो नई खावै": "not eating",
+    "दाणो बंद": "not eating",
+    "खड़ो नई थ्यो": "unable to stand",
+    "गिर गयो": "collapsed",
+    "उठ नई पावे": "cannot stand",
+    "जखम": "wound",
+    "खून आवे": "bleeding",
+    "नकसाड़": "nasal discharge",
+    "हाँफे": "panting",
+    "गरमी को मारो": "heat stress",
+    "लू लाग्यो": "heat stroke",
+    "खाँसी": "coughing",
+    "चिचड़": "tick",
+    "जूँ": "lice",
+    "खुजली": "itching",
+    "लँगड़ावे": "limping",
+    "खुरा सड़णो": "foot rot",
+    "ब्याणो": "calving",
+    "थण में दरद": "udder pain",
+    "दूध घट गयो": "milk reduction",
+    "ज़हर": "poisoning",
+    "ज़हरीलो": "toxic",
+    "साँस लेवण में तकलीफ": "breathing difficulty",
+    "आँख सूजी": "eye swollen",
+    "आँख बंद": "eye closed",
+    "खुर में दरद": "hoof pain",
+    "पेट का कीड़ो": "internal parasites",
+    "कीड़ा": "worms",
+    "डीवर्मिंग": "deworming",
+    "टीको": "vaccination"
+  },
+  "common_phrases": {
+    "म्हारी गाय ने खाणो छोड़ दियो": "my cow has stopped eating",
+    "भैंस का पेट फूल्यो है": "buffalo has bloating",
+    "बकरी के बच्चे को दस्त है": "goat kid has diarrhea",
+    "गाय खड़ी नई थेवे": "cow is unable to stand",
+    "म्हारे जानवर को बखार है": "my animal has fever",
+    "भैंस दूध कम देवे": "buffalo giving less milk",
+    "बकरी हाँफे": "goat is panting",
+    "भेड़ लँगड़ावे": "sheep is limping"
+  },
+  "corrections_contributed": [
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    },
+    {
+      "original": "टेस्ट_शब्द",
+      "corrected": "test_word",
+      "submitted_anonymously": true,
+      "note": "User correction — requires manual review before adding to main dictionary"
+    }
+  ],
+  "_note": "This dictionary is maintained manually. Corrections from users (with consent) are appended to corrections_contributed. This does NOT automatically train any AI model."
+}

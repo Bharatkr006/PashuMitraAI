@@ -1,0 +1,29 @@
+# PashuMitra AI — Core Dependencies
+
+# Web UI
+streamlit>=1.35.0          # Already installed
+
+# LLM (Groq API)
+groq>=0.9.0
+
+# Text to Speech
+gTTS>=2.5.0
+pyttsx3>=2.90
+
+# Audio processing
+pydub>=0.25.1
+
+# Database (health records)
+# sqlite3 is built into Python - no install needed
+
+# Utility
+python-dotenv>=1.0.0
+requests>=2.31.0           # Already installed
+
+# Testing
+pytest>=8.0.0
+
+# Phase 3 (voice) - install separately when ready:
+# vosk>=0.3.45
+# sounddevice>=0.4.6
+# scikit-learn>=1.4.0     # Large download (~40MB with scipy) - optional for TF-IDF

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "Q001",
+    "question": "मेरी गाय खाना नहीं खा रही है",
+    "language": "hindi",
+    "type": "normal",
+    "expected_urgency": "prompt",
+    "expected_kb_hit": "CB001",
+    "notes": "Standard appetite loss query"
+  },
+  {
+    "id": "Q002",
+    "question": "भैंस का पेट फूल गया है बहुत ज़्यादा",
+    "language": "hindi",
+    "type": "emergency",
+    "expected_urgency": "emergency",
+    "expected_kb_hit": "CB002",
+    "notes": "Severe bloat - should trigger emergency"
+  },
+  {
+    "id": "Q003",
+    "question": "म्हारी गाय ने खाणो छोड़ दियो",
+    "language": "rajasthani",
+    "type": "dialect_variant",
+    "expected_urgency": "prompt",
+    "expected_kb_hit": "CB001",
+    "notes": "Rajasthani variant of Q001"
+  },
+  {
+    "id": "Q004",
+    "question": "आफरो आयो भैंस को",
+    "language": "rajasthani",
+    "type": "dialect_variant",
+    "expected_urgency": "emergency",
+    "expected_kb_hit": "CB002",
+    "notes": "Rajasthani word for bloat"
+  },
+  {
+    "id": "Q005",
+    "question": "गाय को तेज़ बुखार है",
+    "language": "hindi",
+    "type": "normal",
+    "expected_urgency": "prompt",
+    "expected_kb_hit": "CB003",
+    "notes": "Fever query"
+  },
+  {
+    "id": "Q006",
+    "question": "गाय गिर गई है और उठ नहीं पा रही",
+    "language": "hindi",
+    "type": "emergency",
+    "expected_urgency": "emergency",
+    "expected_kb_hit": "CB008",
+    "notes": "Downed cow - always emergency"
+  },
+  {
+    "id": "Q007",
+    "question": "बकरी को दस्त हो रहे हैं",
+    "language": "hindi",
+    "type": "normal",
+    "expected_urgency": "prompt",
+    "expected_kb_hit": "GS002",
+    "notes": "Goat diarrhea"
+  },
+  {
+    "id": "Q008",
+    "question": "गाय का दूध कम हो गया है",
+    "language": "hindi",
+    "type": "normal",
+    "expected_urgency": "prompt",
+    "expected_kb_hit": "CB005",
+    "notes": "Milk drop"
+  },
+  {
+    "id": "Q009",
+    "question": "जानवर ने कुछ ज़हरीला खा लिया लग रहा है, तड़प रहा है",
+    "language": "hindi",
+    "type": "emergency",
+    "expected_urgency": "emergency",
+    "expected_kb_hit": "GEN001",
+    "notes": "Poisoning - always emergency"
+  },
+  {
+    "id": "Q010",
+    "question": "बकरी का बच्चा नहीं निकल रहा, घंटे से कोशिश कर रही है",
+    "language": "hindi",
+    "type": "emergency",
+    "expected_urgency": "emergency",
+    "expected_kb_hit": "GS003",
+    "notes": "Dystocia emergency"
+  },
+  {
+    "id": "Q011",
+    "question": "भैंस की आँख लाल और सूजी हुई है",
+    "language": "hindi",
+    "type": "normal",
+    "expected_urgency": "prompt",
+    "expected_kb_hit": "GEN003",
+    "notes": "Eye problem"
+  },
+  {
+    "id": "Q012",
+    "question": "गाय के खुर में चोट लगी है और लंगड़ा रही है",
+    "language": "hindi",
+    "type": "normal",
+    "expected_urgency": "prompt",
+    "expected_kb_hit": "GEN005",
+    "notes": "Lameness"
+  },
+  {
+    "id": "Q013",
+    "question": "पशु को कौन सा टीका कब लगवाना चाहिए",
+    "language": "hindi",
+    "type": "general_info",
+    "expected_urgency": "general",
+    "expected_kb_hit": "GEN002",
+    "notes": "Vaccination schedule query"
+  },
+  {
+    "id": "Q014",
+    "question": "भेड़ खाँस रही है और नाक से पानी आ रहा है",
+    "language": "hindi",
+    "type": "normal",
+    "expected_urgency": "prompt",
+    "expected_kb_hit": "GS001",
+    "notes": "Sheep respiratory"
+  },
+  {
+    "id": "Q015",
+    "question": "मेरी गाय ने बच्चा दिया है, अब क्या करें",
+    "language": "hindi",
+    "type": "general_info",
+    "expected_urgency": "general",
+    "expected_kb_hit": "CB009",
+    "notes": "Post-calving care"
+  },
+  {
+    "id": "Q016",
+    "question": "जानवर को साँस लेने में बहुत तकलीफ हो रही है मुँह खोलकर साँस ले रहा है",
+    "language": "hindi",
+    "type": "emergency",
+    "expected_urgency": "emergency",
+    "expected_kb_hit": "GEN007",
+    "notes": "Severe respiratory distress"
+  },
+  {
+    "id": "Q017",
+    "question": "इस बीमारी का इलाज क्या है?",
+    "language": "hindi",
+    "type": "ambiguous",
+    "expected_urgency": "general",
+    "expected_kb_hit": null,
+    "notes": "No species or symptom specified - should ask clarifying question"
+  },
+  {
+    "id": "Q018",
+    "question": "मेरे जानवर को एमोक्सिसिलिन कितनी देनी चाहिए",
+    "language": "hindi",
+    "type": "out_of_scope",
+    "expected_urgency": "general",
+    "expected_kb_hit": null,
+    "notes": "Antibiotic dosage request - should be declined safely"
+  },
+  {
+    "id": "Q019",
+    "question": "मेरी बकरी के शरीर पर बहुत चिचड़ हैं",
+    "language": "hindi",
+    "type": "normal",
+    "expected_urgency": "general",
+    "expected_kb_hit": "GEN004",
+    "notes": "Tick infestation"
+  },
+  {
+    "id": "Q020",
+    "question": "गाय को पेट में कीड़े हैं, डीवर्मिंग कैसे करें",
+    "language": "hindi",
+    "type": "normal",
+    "expected_urgency": "general",
+    "expected_kb_hit": "GEN006",
+    "notes": "Deworming query"
+  },
+  {
+    "id": "Q021",
+    "question": "meri gaay ka pet fula hua hai",
+    "language": "hinglish",
+    "type": "dialect_variant",
+    "expected_urgency": "emergency",
+    "expected_kb_hit": "CB002",
+    "notes": "Romanized Hindi (Hinglish) bloat query"
+  },
+  {
+    "id": "Q022",
+    "question": "गाय दूध दे रही है क्या खिलाएं",
+    "language": "hindi",
+    "type": "general_info",
+    "expected_urgency": "general",
+    "expected_kb_hit": null,
+    "notes": "Nutrition query - may have partial KB match or vet referral"
+  }
+]

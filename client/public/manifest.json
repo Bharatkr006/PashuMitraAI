@@ -1,0 +1,18 @@
+{
+  "name": "PashuMitra AI — पशु मित्र",
+  "short_name": "PashuMitra",
+  "description": "Voice-first veterinary assistant for rural India with offline-first safety rules",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1a6b3a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+[
+  {
+    "id": "CB001",
+    "species": [
+      "cattle",
+      "buffalo"
+    ],
+    "symptoms": [
+      "not eating",
+      "loss of appetite",
+      "anorexia",
+      "khana nahi kha raha",
+      "kha nahi raha"
+    ],
+    "keywords_hi": [
+      "खाना नहीं खा रहा",
+      "भूख नहीं",
+      "चारा नहीं खाता",
+      "दाना बंद",
+      "खाना बंद कर दिया"
+    ],
+    "keywords_rj": [
+      "खावो नाई",
+      "चारो नई खावै",
+      "दाणो बंद",
+      "रोटी नई खावै"
+    ],
+    "general_guidance": "Loss of appetite in cattle or buffalo can have many causes including fever, digestive issues (bloat, impaction), respiratory infections, or pain. Check the animal's temperature (normal: 38–39°C). Ensure fresh water is available. Observe for other signs like bloating, diarrhea, nasal discharge, or labored breathing. Mild loss of appetite for less than 24 hours in an otherwise alert animal may be monitored. Offer palatable green fodder. Do NOT force-feed.",
+    "urgency": "prompt",
+    "red_flags": [
+      "accompanied by bloating",
+      "temperature above 40°C",
+      "complete refusal for more than 24 hours",
+      "along with weakness or collapse",
+      "grinding teeth",
+      "groaning"
+    ],
+    "limitations": "Loss of appetite is a non-specific symptom. This guidance cannot determine the underlying cause. A veterinarian must examine the animal to diagnose correctly.",
+    "source_name": "NDDB (National Dairy Development Board) — Animal Health Guidelines",
+    "source_url": "https://www.nddb.coop/information/stats/animalhealth",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "CB002",
+    "species": [
+      "cattle",
+      "buffalo"
+    ],
+    "symptoms": [
+      "bloat",
+      "bloating",
+      "gas",
+      "afara",
+      "pet phula hua",
+      "pait phula",
+      "tympany"
+    ],
+    "keywords_hi": [
+      "अफारा",
+      "पेट फूला हुआ",
+      "पेट फूल गया",
+      "गैस",
+      "पेट में गैस",
+      "पेट फूलना",
+      "ढोल जैसा पेट"
+    ],
+    "keywords_rj": [
+      "आफरो",
+      "पेट फूल्यो",
+      "गेस",
+      "पेट ढोल जैसो"
+    ],
+    "general_guidance": "Bloat (tympany) can be life-threatening. Contact a qualified veterinarian immediately, especially if the abdomen is rapidly enlarging or breathing is difficult. Keep the animal calm and do not force-feed, give oils or other home remedies, or attempt to insert a tube. Follow the veterinarian's instructions while arranging urgent care.",
+    "urgency": "emergency",
+    "red_flags": [
+      "severe distension of left flank",
+      "difficulty breathing",
+      "animal cannot stand",
+      "tongue turning blue",
+      "animal has been bloated more than 30 minutes and worsening"
+    ],
+    "limitations": "Bloat can become life-threatening quickly. This information is not a diagnosis or treatment; a qualified veterinarian must assess the animal urgently.",
+    "source_name": "ICAR — Indian Council of Agricultural Research, Livestock Health Guidelines",
+    "source_url": "https://icar.org.in/content/livestock-health",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "CB003",
+    "species": [
+      "cattle",
+      "buffalo"
+    ],
+    "symptoms": [
+      "fever",
+      "high temperature",
+      "bukhar",
+      "tez bukhar",
+      "body hot"
+    ],
+    "keywords_hi": [
+      "बुखार",
+      "तेज़ बुखार",
+      "बदन गर्म",
+      "तापमान ज़्यादा",
+      "थरथराना"
+    ],
+    "keywords_rj": [
+      "बखार",
+      "ज्वर",
+      "बदन गरम",
+      "तापमान ज्यादो"
+    ],
+    "general_guidance": "Normal temperature of cattle and buffalo is 38–39°C (100.4–102.2°F). A temperature above 39.5°C is considered fever. Fever is usually a sign of infection (bacterial, viral, or parasitic). Keep the animal in a cool, shaded area. Provide fresh clean water. Do NOT give human medicines like paracetamol — cattle doses are very different and potentially dangerous. Only a licensed veterinarian should prescribe antipyretics or antibiotics.",
+    "urgency": "prompt",
+    "red_flags": [
+      "temperature above 41°C",
+      "seizures or trembling",
+      "nasal discharge",
+      "sudden high fever with multiple animals affected (suggests contagious disease)",
+      "fever with difficult breathing"
+    ],
+    "limitations": "Fever is a symptom, not a disease. Without examination and diagnostic tests, the cause cannot be determined. Administering medicines without veterinary guidance can mask symptoms and delay proper treatment.",
+    "source_name": "ICAR — Handbook of Animal Husbandry",
+    "source_url": "https://icar.org.in",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "CB004",
+    "species": [
+      "cattle",
+      "buffalo"
+    ],
+    "symptoms": [
+      "diarrhea",
+      "loose motion",
+      "dast",
+      "loose stool",
+      "watery stool",
+      "patlaa gobar"
+    ],
+    "keywords_hi": [
+      "दस्त",
+      "पतला गोबर",
+      "पेचिश",
+      "बार बार टट्टी",
+      "पानी जैसा मल"
+    ],
+    "keywords_rj": [
+      "दस्त",
+      "पातलो गोबर",
+      "पेट खराब",
+      "झाड़ा"
+    ],
+    "general_guidance": "Diarrhea in cattle can be caused by diet changes, parasites, or bacterial/viral infection. Provide clean fresh water to prevent dehydration — this is the most important first aid. Oral Rehydration Solution (ORS) can be given: mix 1 teaspoon salt + 1 teaspoon sugar in 1 litre water. Withhold concentrate feed temporarily. Offer dry hay/straw. Monitor for blood in stool (serious sign).",
+    "urgency": "prompt",
+    "red_flags": [
+      "blood in stool",
+      "black tarry stool",
+      "severe dehydration (sunken eyes, skin doesn't spring back)",
+      "high fever with diarrhea",
+      "multiple animals affected",
+      "young calves with severe diarrhea"
+    ],
+    "limitations": "Diarrhea has many possible causes. ORS is supportive care only. Antibiotics and anthelmintics should only be prescribed by a veterinarian after proper diagnosis.",
+    "source_name": "NDDB — Calf Health Management",
+    "source_url": "https://www.nddb.coop",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "CB005",
+    "species": [
+      "cattle",
+      "buffalo"
+    ],
+    "symptoms": [
+      "milk reduction",
+      "less milk",
+      "doodh kam ho gaya",
+      "dudh ghat gaya",
+      "low milk production",
+      "reduced milk yield"
+    ],
+    "keywords_hi": [
+      "दूध कम हो गया",
+      "दूध घट गया",
+      "दूध नहीं आ रहा",
+      "थन में दर्द",
+      "दूध कम देना",
+      "दूध कम हो रहा",
+      "चारा कम खाना",
+      "पानी कम पीना",
+      "हाल में ब्याया",
+      "ब्याने के बाद दूध कम",
+      "थन में सूजन",
+      "थन गरम",
+      "दूध में खून",
+      "दूध में गांठ",
+      "recent calving",
+      "heat stress",
+      "feed change",
+      "water intake",
+      "udder swelling",
+      "painful udder",
+      "blood in milk",
+      "milk clots",
+      "poor nutrition"
+    ],
+    "keywords_rj": [
+      "दूध घट गयो",
+      "दूध कम व्हेयो",
+      "थण में दरद",
+      "दूध कम देवे",
+      "दूध कम हो रह्यो",
+      "चारा कम खावै",
+      "पाणी कम पीवै",
+      "हाल में ब्याई",
+      "थण में सूजन",
+      "थण गरम",
+      "दूध में खून",
+      "दूध में गांठ",
+      "हाल में ब्याई गाय",
+      "गर्मी का तनाव",
+      "चारे में बदलाव",
+      "दूध में खून या गांठ"
+    ],
+    "general_guidance": "Reduced milk production can be due to mastitis (udder infection), nutritional deficiency, heat stress, illness, pregnancy, or natural decline at end of lactation. Check udder for swelling, hardness, redness, or pain (signs of mastitis). Check for watery or stringy milk — a sign of mastitis. Ensure adequate water intake (a lactating cow needs 50–80 litres/day). Maintain a balanced diet with green fodder.",
+    "urgency": "prompt",
+    "red_flags": [
+      "hot, swollen, painful udder",
+      "blood or clots in milk",
+      "animal refusing milking due to pain",
+      "fever with milk drop",
+      "sudden drop in all animals (suggests contagious mastitis)"
+    ],
+    "limitations": "Mastitis requires veterinary diagnosis and appropriate antibiotic treatment prescribed by a vet. Self-medication with antibiotics causes antibiotic resistance and affects milk safety.",
+    "source_name": "NDDB — Mastitis Control Programme",
+    "source_url": "https://www.nddb.coop/information/stats/animalhealth",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "CB006",
+    "species": [
+      "cattle",
+      "buffalo"
+    ],
+    "symptoms": [
+      "wound",
+      "injury",
+      "cut",
+      "zakhm",
+      "chot",
+      "bleeding",
+      "khoon aa raha"
+    ],
+    "keywords_hi": [
+      "ज़ख्म",
+      "चोट",
+      "कटना",
+      "खून आना",
+      "घाव",
+      "सूजन"
+    ],
+    "keywords_rj": [
+      "जखम",
+      "चोट",
+      "खून आवे",
+      "घाव"
+    ],
+    "general_guidance": "For external wounds: clean the wound gently with clean water or saline. Remove visible dirt or foreign material carefully. Apply antiseptic solution (povidone-iodine / betadine, diluted) if available. Cover with clean cloth to protect from flies. Do NOT apply turmeric, ash, dung, or other traditional substances to open wounds — these can cause serious infections. For fly-strike (maggots in wound): remove maggots carefully with tweezers or turpentine oil on a cotton swab, clean thoroughly, and seek veterinary care.",
+    "urgency": "prompt",
+    "red_flags": [
+      "uncontrolled bleeding (press firmly with clean cloth and call vet immediately)",
+      "very deep wound",
+      "wound near eye or joint",
+      "maggot-infested wounds",
+      "wound not healing after 3-5 days",
+      "signs of tetanus (jaw stiffness, muscle spasms)"
+    ],
+    "limitations": "Deep wounds, puncture wounds, and bite wounds carry serious infection risks including tetanus and gas gangrene. A veterinarian should assess all significant wounds.",
+    "source_name": "ICAR — First Aid for Farm Animals",
+    "source_url": "https://icar.org.in",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "CB007",
+    "species": [
+      "cattle",
+      "buffalo"
+    ],
+    "symptoms": [
+      "heat stress",
+      "overheating",
+      "garmi",
+      "loo lagna",
+      "heavy panting",
+      "hांफना"
+    ],
+    "keywords_hi": [
+      "गर्मी से बेहाल",
+      "हाँफना",
+      "लू लगना",
+      "अत्यधिक गर्मी",
+      "लार टपकना",
+      "छाँव नहीं"
+    ],
+    "keywords_rj": [
+      "गरमी को मारो",
+      "लू लाग्यो",
+      "हाँफे",
+      "पसीनो"
+    ],
+    "general_guidance": "Buffalo and cattle suffer significantly in high temperatures (above 35°C). Signs: rapid panting, excessive salivation, reluctance to move, reduced feed intake, milk drop. First aid: move animal to shade immediately. Provide plenty of fresh cool water. Sprinkle cool (not ice cold) water on the body, especially neck and flanks. Improve ventilation. Do NOT give ice water to drink — can cause shock. Schedule work and milking for early morning or evening.",
+    "urgency": "prompt",
+    "red_flags": [
+      "animal collapsed or unable to stand due to heat",
+      "body temperature above 41°C",
+      "animal unconscious or unresponsive",
+      "muscle tremors due to heat"
+    ],
+    "limitations": "Severe heat stroke in animals can be fatal. If the animal shows collapse or very high temperature, veterinary emergency care is needed immediately.",
+    "source_name": "ICAR — Heat Stress Management in Dairy Animals",
+    "source_url": "https://icar.org.in/content/livestock-health",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "CB008",
+    "species": [
+      "cattle",
+      "buffalo"
+    ],
+    "symptoms": [
+      "not standing",
+      "unable to stand",
+      "khada nahi ho raha",
+      "gir gaya",
+      "collapse",
+      "downed animal"
+    ],
+    "keywords_hi": [
+      "खड़ा नहीं हो रहा",
+      "गिर गया",
+      "उठ नहीं पा रहा",
+      "लाचार पड़ा है"
+    ],
+    "keywords_rj": [
+      "खड़ो नई थ्यो",
+      "गिर गयो",
+      "उठ नई पावे"
+    ],
+    "general_guidance": "A cow or buffalo that cannot stand is a SERIOUS EMERGENCY. This could indicate: Milk Fever (Hypocalcaemia — very common in dairy cows after calving), Grass Tetany (Hypomagnesaemia), severe injury, nerve damage, or severe illness. Do NOT attempt to force the animal to stand — this can cause further injury. Keep the animal in sternal position (on its chest, not its side). Prevent bloat. Contact a veterinarian IMMEDIATELY — milk fever can be fatal within hours but responds rapidly to calcium injection.",
+    "urgency": "emergency",
+    "red_flags": [
+      "THIS IS ALWAYS AN EMERGENCY",
+      "animal down for more than 1 hour",
+      "recently calved cow (milk fever risk)",
+      "muscle tremors or twitching",
+      "cold ears and extremities",
+      "unresponsive"
+    ],
+    "limitations": "A downed animal cannot be safely treated at home. Calcium and magnesium injections must be administered by a trained veterinarian. Delay significantly worsens prognosis.",
+    "source_name": "ICAR — Metabolic Disorders in Dairy Cattle",
+    "source_url": "https://icar.org.in",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "GS001",
+    "species": [
+      "goat",
+      "sheep"
+    ],
+    "symptoms": [
+      "coughing",
+      "khansi",
+      "nasal discharge",
+      "naksal",
+      "respiratory",
+      "breathing difficulty"
+    ],
+    "keywords_hi": [
+      "खाँसी",
+      "नाक बहना",
+      "साँस लेने में तकलीफ",
+      "सीने की आवाज़",
+      "बलगम"
+    ],
+    "keywords_rj": [
+      "खाँसी",
+      "नकसाड़",
+      "साँस में तकलीफ"
+    ],
+    "general_guidance": "Coughing and nasal discharge in goats/sheep often indicate respiratory infection (Pneumonia, Contagious Caprine Pleuropneumonia - CCPP, or Peste des Petits Ruminants - PPR). Isolate the affected animal from others immediately. Keep in a dry, well-ventilated but draft-free area. Provide clean fresh water. Check for fever. PPR is a highly contagious viral disease — if multiple animals are affected with fever, nasal discharge, diarrhea, and mouth sores, contact a government veterinarian immediately as it is a notifiable disease.",
+    "urgency": "prompt",
+    "red_flags": [
+      "multiple animals affected",
+      "mouth sores with nasal discharge (PPR suspected)",
+      "very rapid labored breathing",
+      "blue-tinged gums",
+      "high fever above 40°C",
+      "sudden deaths in the herd"
+    ],
+    "limitations": "Respiratory disease in small ruminants can spread rapidly and some diseases (PPR) are notifiable. Self-medication with antibiotics without diagnosis is dangerous. PPR requires vaccination — contact local animal husbandry department.",
+    "source_name": "ICAR — Health Management in Goats and Sheep",
+    "source_url": "https://icar.org.in",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "GS002",
+    "species": [
+      "goat",
+      "sheep"
+    ],
+    "symptoms": [
+      "diarrhea",
+      "loose stool",
+      "dast",
+      "patlaa",
+      "worms",
+      "parasites"
+    ],
+    "keywords_hi": [
+      "दस्त",
+      "पतला पाखाना",
+      "कीड़े",
+      "परजीवी",
+      "पेट के कीड़े"
+    ],
+    "keywords_rj": [
+      "दस्त",
+      "पातलो",
+      "कीड़ा"
+    ],
+    "general_guidance": "Diarrhea in goats and sheep is very common and a major cause of death in kids/lambs. Common causes: internal parasites (worms — very serious in small ruminants), coccidiosis, enterotoxaemia, or diet change. Provide ORS (Oral Rehydration Solution) to prevent dehydration. Keep the animal warm and dry. BOTTLE LAMBS AND KIDS: seek veterinary care within hours of severe diarrhea. Internal parasites (Haemonchus contortus — barber's pole worm) are a leading killer of goats — regular deworming schedule should be planned with a vet. Check 'FAMACHA' lower eyelid color — pale/white suggests severe anaemia from worms (emergency).",
+    "urgency": "prompt",
+    "red_flags": [
+      "very pale or white lower eyelid (FAMACHA score 4-5)",
+      "kid or lamb with severe diarrhea",
+      "blood in stool",
+      "sudden deaths in flock",
+      "multiple animals with diarrhea"
+    ],
+    "limitations": "Parasite resistance to dewormers (anthelmintic resistance) is a serious problem. Dewormer selection and dosing must be guided by a veterinarian. Do not worm routinely without veterinary advice.",
+    "source_name": "ICAR — Small Ruminant Health",
+    "source_url": "https://icar.org.in",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "GS003",
+    "species": [
+      "goat",
+      "sheep"
+    ],
+    "symptoms": [
+      "pregnancy",
+      "delivery",
+      "byaana",
+      "baccha dene mein takleef",
+      "difficult birth",
+      "dystocia"
+    ],
+    "keywords_hi": [
+      "ब्याना",
+      "बच्चा देना",
+      "प्रसव में तकलीफ",
+      "बच्चा नहीं आ रहा",
+      "जेर नहीं गिरी"
+    ],
+    "keywords_rj": [
+      "ब्याणो",
+      "बच्चो नई आवे",
+      "जेर नई गिरी"
+    ],
+    "general_guidance": "Normal goat/sheep delivery (kidding/lambing) should complete within 30 minutes of active straining. If the animal has been straining for more than 30 minutes without delivery, this is a VETERINARY EMERGENCY (Dystocia). Signs of normal delivery: water bag appears, then feet and head. Do NOT attempt to pull a stuck kid/lamb without veterinary training — incorrect traction can injure or kill the mother and offspring. Retained placenta (jhari/jer nahi giri): if placenta is not expelled within 12 hours, contact a veterinarian.",
+    "urgency": "emergency",
+    "red_flags": [
+      "straining more than 30 minutes without delivery",
+      "visible feet but no progress for 15 minutes",
+      "only one foot or abnormal presentation visible",
+      "foul-smelling discharge",
+      "placenta retained more than 12 hours",
+      "animal showing signs of exhaustion",
+      "kid/lamb partly out but stuck"
+    ],
+    "limitations": "Assisted delivery requires veterinary training. Incorrect intervention is dangerous. Time is critical in dystocia — call a veterinarian immediately do not delay.",
+    "source_name": "ICAR — Reproductive Health in Small Ruminants",
+    "source_url": "https://icar.org.in",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "GEN001",
+    "species": [
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep"
+    ],
+    "symptoms": [
+      "poisoning",
+      "zehar",
+      "toxic plant",
+      "chemical",
+      "pesticide",
+      "collapse sudden"
+    ],
+    "keywords_hi": [
+      "ज़हर",
+      "ज़हरीला पौधा",
+      "कीटनाशक खा लिया",
+      "अचानक गिर गया",
+      "झाग आना",
+      "तड़प रहा है"
+    ],
+    "keywords_rj": [
+      "ज़हर",
+      "ज़हरीलो पोधो",
+      "कीटनाशक",
+      "अचाणक गिर गयो"
+    ],
+    "general_guidance": "Suspected poisoning in any animal is a VETERINARY EMERGENCY. Signs: sudden collapse, convulsions, excessive salivation/frothing, muscle tremors, dilated pupils, difficulty breathing. Do NOT try to induce vomiting in ruminants. Remove the animal from the suspected poison source. Contact a veterinarian or nearest veterinary hospital IMMEDIATELY. Try to identify and save a sample of what the animal may have eaten.",
+    "urgency": "emergency",
+    "red_flags": [
+      "THIS IS ALWAYS AN EMERGENCY",
+      "convulsions",
+      "frothing from mouth",
+      "collapse",
+      "unresponsive",
+      "severe muscle tremors",
+      "suspected pesticide or chemical ingestion"
+    ],
+    "limitations": "Poisoning treatment requires specific antidotes and supportive care that only a veterinarian can provide. Every minute counts. Do not delay.",
+    "source_name": "ICAR — Toxicology for Livestock",
+    "source_url": "https://icar.org.in",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "GEN002",
+    "species": [
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep"
+    ],
+    "symptoms": [
+      "vaccination",
+      "tika",
+      "teeka",
+      "prevention",
+      "disease prevention",
+      "FMD",
+      "khur muh"
+    ],
+    "keywords_hi": [
+      "टीका",
+      "वैक्सीन",
+      "खुर मुँह रोग",
+      "FMD",
+      "रोकथाम",
+      "टीकाकरण",
+      "PPR"
+    ],
+    "keywords_rj": [
+      "टीको",
+      "वैक्सीन",
+      "खुर-मुँह",
+      "रोगाणु रोकथाम"
+    ],
+    "general_guidance": "Vaccination is the most effective way to prevent serious livestock diseases. Key vaccines in India: (1) FMD (Foot and Mouth Disease / Khur-Muh Rog): Cattle and buffalo — every 6 months. Free government vaccination drives are conducted. (2) HS (Haemorrhagic Septicaemia): Cattle and buffalo — annually before monsoon. (3) BQ (Black Quarter): Cattle — annually. (4) PPR (Peste des Petits Ruminants): Goats and sheep — every 3 years. Contact your local Pashu Chikitsa Kendra (Veterinary Centre) or Animal Husbandry Department for free vaccination schedules.",
+    "urgency": "general",
+    "red_flags": [],
+    "limitations": "Vaccination schedules may vary by region. Contact your local animal husbandry department for the current schedule and free vaccination camps in your area.",
+    "source_name": "Department of Animal Husbandry & Dairying, Government of India",
+    "source_url": "https://dahd.nic.in/schemes-programmes/schemes/national-animal-disease-control-programme",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "GEN003",
+    "species": [
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep"
+    ],
+    "symptoms": [
+      "eye problem",
+      "eye discharge",
+      "eye swollen",
+      "aankh mein problem",
+      "pinkeye",
+      "watery eye"
+    ],
+    "keywords_hi": [
+      "आँख से पानी",
+      "आँख लाल",
+      "आँख सूजी",
+      "आँख बंद",
+      "आँख में मवाद"
+    ],
+    "keywords_rj": [
+      "आँख सूजी",
+      "आँख बंद",
+      "आँख लाल"
+    ],
+    "general_guidance": "Eye problems (Infectious Bovine Keratoconjunctivitis — Pinkeye — or Pink Eye) are common in cattle, especially young stock. Signs: watery eye, keeping eye closed, cloudiness, redness. Gently clean discharge with clean damp cloth. Keep animal in shade — bright sunlight worsens condition. Flies spread the infection — fly control is important. Isolate the affected animal to prevent spread. Eye drops should only be used as prescribed by a veterinarian.",
+    "urgency": "prompt",
+    "red_flags": [
+      "complete white cloudiness of the eye (corneal ulcer)",
+      "visible injury to the eye",
+      "both eyes severely affected",
+      "no improvement in 3 days"
+    ],
+    "limitations": "Some eye conditions can cause permanent blindness if untreated. Veterinary examination is recommended for any eye problem lasting more than 2 days.",
+    "source_name": "ICAR — Common Diseases of Cattle",
+    "source_url": "https://icar.org.in",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "GEN004",
+    "species": [
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep"
+    ],
+    "symptoms": [
+      "tick",
+      "lice",
+      "external parasite",
+      "chichad",
+      "juu",
+      "skin problem",
+      "itching",
+      "khujli"
+    ],
+    "keywords_hi": [
+      "चिचड़",
+      "जूँ",
+      "खुजली",
+      "बाल झड़ना",
+      "चमड़ी में घाव",
+      "किलनी"
+    ],
+    "keywords_rj": [
+      "चिचड़",
+      "जूँ",
+      "खुजली",
+      "बाल झड़णा"
+    ],
+    "general_guidance": "Ticks (Chichad) and lice are very common external parasites that cause significant production losses, anaemia, and transmit diseases. Regular grooming helps detect them early. Chemical acaricides (tick/lice killers) are available — consult your veterinarian for appropriate product and safe application, especially near eyes and genitals. Tick control in the environment (sheds) is also important. Manual removal of individual ticks: grasp close to skin and pull steadily — do NOT crush.",
+    "urgency": "general",
+    "red_flags": [
+      "severe tick burden causing anaemia (pale gums)",
+      "skin disease/mange with large areas of hair loss",
+      "multiple animals severely affected"
+    ],
+    "limitations": "Some tick-borne diseases (Theileriosis, Babesiosis) can be life-threatening. If the animal shows signs of anaemia, fever, or jaundice along with tick infestation, contact a veterinarian urgently.",
+    "source_name": "ICAR — Ectoparasite Control in Livestock",
+    "source_url": "https://icar.org.in",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "GEN005",
+    "species": [
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep"
+    ],
+    "symptoms": [
+      "foot problem",
+      "limping",
+      "lame",
+      "foot rot",
+      "pair mein takleef",
+      "khura"
+    ],
+    "keywords_hi": [
+      "लंगड़ाना",
+      "खुर में दर्द",
+      "खुर सड़ना",
+      "पैर में तकलीफ",
+      "चलने में दर्द"
+    ],
+    "keywords_rj": [
+      "लँगड़ावे",
+      "खुर में दरद",
+      "खुरा सड़णो"
+    ],
+    "general_guidance": "Lameness is common in livestock and can be caused by hoof overgrowth, foot rot (bacterial infection between toes), injury, or FMD (Foot and Mouth Disease — with lesions in mouth too). Check for: interdigital (between toes) swelling or foul smell (foot rot). Clean and trim overgrown hooves. For foot rot: clean affected foot thoroughly, apply antiseptic (povidone-iodine). Foot rot requires veterinary treatment with antibiotics. FMD: contact government veterinarian immediately — it is a highly contagious notifiable disease.",
+    "urgency": "prompt",
+    "red_flags": [
+      "multiple feet affected simultaneously",
+      "foot lesions with mouth sores (FMD suspected)",
+      "severe lameness with swelling extending above the hoof",
+      "multiple animals in herd affected"
+    ],
+    "limitations": "FMD is a notifiable disease and must be reported to the animal husbandry department. Severe foot rot requires prescription antibiotics from a veterinarian.",
+    "source_name": "NDDB — Hoof Health in Dairy Animals",
+    "source_url": "https://www.nddb.coop",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "CB009",
+    "species": [
+      "cattle",
+      "buffalo"
+    ],
+    "symptoms": [
+      "calving",
+      "byaana",
+      "delivery",
+      "after calving care",
+      "neonatal calf"
+    ],
+    "keywords_hi": [
+      "ब्याना",
+      "गाय ने बच्चा दिया",
+      "नवजात बछड़ा",
+      "कोलोस्ट्रम",
+      "पहला दूध"
+    ],
+    "keywords_rj": [
+      "ब्याणो",
+      "बछड़ो",
+      "पहलो दूध"
+    ],
+    "general_guidance": "After normal calving: (1) Ensure the calf breathes — clear mucus from nose and mouth. (2) The calf MUST receive Colostrum (first milk / Kheesra) within the first hour — this provides critical immunity. Minimum: 2 litres within first 2 hours, 2 more litres within 6 hours. (3) Check that the placenta passes within 12 hours. (4) Check the calf is standing within 1-2 hours and nursing. (5) Mother: provide warm water with jaggery (gur) and salt, green fodder. Do NOT milk the cow completely for the first few days — let the calf feed first.",
+    "urgency": "general",
+    "red_flags": [
+      "calf not breathing after birth (clear airway, rub body vigorously)",
+      "calf not standing within 2 hours",
+      "calf not nursing within 3 hours",
+      "mother rejecting calf",
+      "retained placenta after 12 hours"
+    ],
+    "limitations": "If the calf appears weak or is not nursing, veterinary support within hours is critical. Failure to receive colostrum significantly increases mortality risk.",
+    "source_name": "NDDB — Calf Management",
+    "source_url": "https://www.nddb.coop",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "GEN006",
+    "species": [
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep"
+    ],
+    "symptoms": [
+      "deworming",
+      "pet ke keede",
+      "internal parasites",
+      "krimikosh"
+    ],
+    "keywords_hi": [
+      "पेट के कीड़े",
+      "कृमिनाशक",
+      "कीड़े मारना",
+      "डीवर्मिंग"
+    ],
+    "keywords_rj": [
+      "पेट का कीड़ो",
+      "डीवर्मिंग"
+    ],
+    "general_guidance": "Internal parasites (roundworms, tapeworms, liver flukes) are a major cause of production loss and death in Indian livestock. Signs: weight loss despite eating, pot belly (especially kids/lambs), pale gums, poor coat condition, diarrhea. A proper deworming schedule should be established with a veterinarian. Importantly: do NOT give the same dewormer every time — rotate between drug classes to prevent resistance. Kids and lambs need more frequent deworming. After deworming, pasture management also helps break the parasite cycle.",
+    "urgency": "general",
+    "red_flags": [
+      "very pale gums (white) — severe anaemia from worm burden",
+      "bottle jaw (swelling under chin)",
+      "multiple sudden deaths in young animals"
+    ],
+    "limitations": "Anthelmintic (dewormer) resistance is a serious and growing problem in India. A veterinarian should guide dewormer selection and monitor effectiveness. Random deworming without diagnosis wastes money and accelerates resistance.",
+    "source_name": "ICAR — Parasitic Diseases of Small Ruminants",
+    "source_url": "https://icar.org.in",
+    "last_verified": "2024-01-15"
+  },
+  {
+    "id": "GEN007",
+    "species": [
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep"
+    ],
+    "symptoms": [
+      "breathing problem",
+      "dyspnea",
+      "labored breathing",
+      "saas lene mein takleef",
+      "breathlessness"
+    ],
+    "keywords_hi": [
+      "साँस लेने में तकलीफ",
+      "तेज़ साँस",
+      "साँस फूलना",
+      "घरघराहट"
+    ],
+    "keywords_rj": [
+      "साँस लेवण में तकलीफ",
+      "साँस फूलणी"
+    ],
+    "general_guidance": "Labored or rapid breathing in livestock is always serious. Causes include pneumonia, heat stress, bloat pressing on lungs, heart disease, or anemia. Count breaths per minute (normal cattle: 10-30/min; goats/sheep: 12-20/min). More than 50 breaths per minute is concerning. Keep animal calm and in a cool, well-ventilated area. Remove from direct sun. Contact a veterinarian promptly.",
+    "urgency": "emergency",
+    "red_flags": [
+      "open-mouth breathing",
+      "blue or purple gums/tongue (cyanosis)",
+      "neck extended and head raised trying to breathe",
+      "froth from nose and mouth",
+      "breathing rate more than 60/minute"
+    ],
+    "limitations": "Severe respiratory distress is a medical emergency. Time is critical. Do not delay seeking veterinary care to try home remedies.",
+    "source_name": "ICAR — Respiratory Diseases in Livestock",
+    "source_url": "https://icar.org.in",
+    "last_verified": "2024-01-15"
+  }
+]
